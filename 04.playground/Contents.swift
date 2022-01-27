@@ -41,4 +41,4 @@ for _ in 0..<25 {
 }
 print("randomInts: \(randomInts)")
 
-// 랜덤으로 숫자
+// 랜덤으로 숫자 26개
